@@ -1,0 +1,194 @@
+{
+    "resultCode": "0",
+    "resultMessage": "정상 처리되었습니다.",
+    "korea": {
+        "countryName": "합계",
+        "newCase": "3,938",
+        "totalCase": "429,002",
+        "recovered": "381,851",
+        "death": "3,401",
+        "percentage": "828",
+        "newCcase": "3,917",
+        "newFcase": "21"
+    },
+    "seoul": {
+        "countryName": "서울",
+        "newCase": "1,760",
+        "totalCase": "146,406",
+        "recovered": "125,728",
+        "death": "1,004",
+        "percentage": "1514",
+        "newCcase": "1,757",
+        "newFcase": "3"
+    },
+    "busan": {
+        "countryName": "부산",
+        "newCase": "97",
+        "totalCase": "15,680",
+        "recovered": "14,462",
+        "death": "179",
+        "percentage": "462",
+        "newCcase": "97",
+        "newFcase": "0"
+    },
+    "daegu": {
+        "countryName": "대구",
+        "newCase": "81",
+        "totalCase": "18,507",
+        "recovered": "17,581",
+        "death": "304",
+        "percentage": "765",
+        "newCcase": "80",
+        "newFcase": "1"
+    },
+    "incheon": {
+        "countryName": "인천",
+        "newCase": "260",
+        "totalCase": "23,379",
+        "recovered": "20,595",
+        "death": "136",
+        "percentage": "794",
+        "newCcase": "259",
+        "newFcase": "1"
+    },
+    "gwangju": {
+        "countryName": "광주",
+        "newCase": "35",
+        "totalCase": "6,054",
+        "recovered": "5,617",
+        "death": "30",
+        "percentage": "417",
+        "newCcase": "35",
+        "newFcase": "0"
+    },
+    "daejeon": {
+        "countryName": "대전",
+        "newCase": "50",
+        "totalCase": "8,334",
+        "recovered": "7,786",
+        "death": "59",
+        "percentage": "569",
+        "newCcase": "50",
+        "newFcase": "0"
+    },
+    "ulsan": {
+        "countryName": "울산",
+        "newCase": "13",
+        "totalCase": "5,611",
+        "recovered": "5,468",
+        "death": "57",
+        "percentage": "494",
+        "newCcase": "13",
+        "newFcase": "0"
+    },
+    "sejong": {
+        "countryName": "세종",
+        "newCase": "20",
+        "totalCase": "1,492",
+        "recovered": "1,397",
+        "death": "2",
+        "percentage": "419",
+        "newCcase": "20",
+        "newFcase": "0"
+    },
+    "gyeonggi": {
+        "countryName": "경기",
+        "newCase": "1,102",
+        "totalCase": "128,336",
+        "recovered": "113,310",
+        "death": "1,118",
+        "percentage": "956",
+        "newCcase": "1,096",
+        "newFcase": "6"
+    },
+    "gangwon": {
+        "countryName": "강원",
+        "newCase": "87",
+        "totalCase": "8,291",
+        "recovered": "7,540",
+        "death": "71",
+        "percentage": "537",
+        "newCcase": "86",
+        "newFcase": "1"
+    },
+    "chungbuk": {
+        "countryName": "충북",
+        "newCase": "39",
+        "totalCase": "8,664",
+        "recovered": "8,283",
+        "death": "89",
+        "percentage": "541",
+        "newCcase": "39",
+        "newFcase": "0"
+    },
+    "chungnam": {
+        "countryName": "충남",
+        "newCase": "111",
+        "totalCase": "12,511",
+        "recovered": "11,336",
+        "death": "76",
+        "percentage": "590",
+        "newCcase": "110",
+        "newFcase": "1"
+    },
+    "jeonbuk": {
+        "countryName": "전북",
+        "newCase": "35",
+        "totalCase": "6,092",
+        "recovered": "5,597",
+        "death": "72",
+        "percentage": "338",
+        "newCcase": "35",
+        "newFcase": "0"
+    },
+    "jeonnam": {
+        "countryName": "전남",
+        "newCase": "42",
+        "totalCase": "4,256",
+        "recovered": "3,795",
+        "death": "25",
+        "percentage": "230",
+        "newCcase": "42",
+        "newFcase": "0"
+    },
+    "gyeongbuk": {
+        "countryName": "경북",
+        "newCase": "98",
+        "totalCase": "10,818",
+        "recovered": "10,179",
+        "death": "102",
+        "percentage": "410",
+        "newCcase": "97",
+        "newFcase": "1"
+    },
+    "gyeongnam": {
+        "countryName": "경남",
+        "newCase": "74",
+        "totalCase": "14,608",
+        "recovered": "13,645",
+        "death": "52",
+        "percentage": "437",
+        "newCcase": "72",
+        "newFcase": "2"
+    },
+    "jeju": {
+        "countryName": "제주",
+        "newCase": "29",
+        "totalCase": "3,544",
+        "recovered": "3,273",
+        "death": "9",
+        "percentage": "525",
+        "newCcase": "29",
+        "newFcase": "0"
+    },
+    "quarantine": {
+        "countryName": "검역",
+        "newCase": "5",
+        "totalCase": "6,419",
+        "recovered": "6,259",
+        "death": "16",
+        "percentage": "-",
+        "newCcase": "0",
+        "newFcase": "5"
+    }
+} 
